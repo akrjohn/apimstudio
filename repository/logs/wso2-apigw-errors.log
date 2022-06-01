@@ -1,0 +1,8 @@
+2022-06-01T11:55:40,530 [-] [Start Level: Equinox Container: 2834d72d-c02a-4bd1-973f-b3e02e166868]  WARN Digester Match [Server/Service/Engine/Host/Valve] failed to set property [maxDays] to []
+2022-06-01T11:55:54,210 [-] [Framework Event Dispatcher: Equinox Container: 2834d72d-c02a-4bd1-973f-b3e02e166868]  WARN ApplicationManagementServiceComponent Templates directory not found at /Users/jrube00/Downloads/wso2am-4.1.0/repository/resources/identity/authntemplates
+2022-06-01T11:56:51,256 [-] [Framework Event Dispatcher: Equinox Container: 2834d72d-c02a-4bd1-973f-b3e02e166868]  WARN SSLUtilBase The trusted certificate with alias [geotrustglobalca] and DN [CN=GeoTrust Global CA, O=GeoTrust Inc., C=US] is not valid due to [NotAfter: Fri May 20 21:00:00 PDT 2022]. Certificates signed by this trusted certificate WILL be accepted
+2022-06-01T11:56:53,421 [-] [https-jsse-nio-9443-exec-27] ERROR GlobalThrowableMapper No API Artifacts
+2022-06-01T11:57:06,718 [-] [https-jsse-nio-9443-exec-50] ERROR OIDCSessionIFrameServlet Error while retrieving OAuth application information for the provided client id : AJxFP2LEKWcxkNzn91IvHjBLEz0a, Cannot find an application associated with the given consumer key : AJxFP2LEKWcxkNzn91IvHjBLEz0a
+2022-06-01T11:57:09,269 [-] [https-jsse-nio-9443-exec-18] ERROR refresh:jag Oauth application details not found for 'publisher'
+2022-06-01T11:57:09,430 [-] [https-jsse-nio-9443-exec-8] ERROR OAuthOpaqueAuthenticatorImpl Invalid OAuth Token : Invalid Access Token. ACTIVE access token is not found.
+2022-06-01T11:57:09,430 [-] [https-jsse-nio-9443-exec-8] ERROR OAuthOpaqueAuthenticatorImpl Provided access token is invalid
