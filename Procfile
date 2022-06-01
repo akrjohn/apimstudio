@@ -1,0 +1,1 @@
+web: sh bin/api-manager.sh -Dsetup -Dport.http.nonssl=$PORT
