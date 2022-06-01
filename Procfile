@@ -1,0 +1,1 @@
+web: sh bin/wso2server.sh -Dsetup -Dport.http.nonssl=$PORT
