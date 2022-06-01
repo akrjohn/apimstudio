@@ -50,6 +50,8 @@
     Host name to be used for the Carbon management console
     -->
     <!--MgtHostName>mgt.wso2.org</MgtHostName-->
+    <HostName>wsostudio.herokuapp.com</HostName>
+    <MgtHostName>wsostudio.herokuapp.com</MgtHostName>
 
     <!--
         The URL of the back end server. This is where the admin services are hosted and
@@ -735,6 +737,7 @@
 
     <!-- Enable accessing Admin Console via HTTP -->
     <!-- EnableHTTPAdminConsole>true</EnableHTTPAdminConsole -->
+    <EnableHTTPAdminConsole>true</EnableHTTPAdminConsole>
 
     <!--
        Default Feature Repository of WSO2 Carbon.

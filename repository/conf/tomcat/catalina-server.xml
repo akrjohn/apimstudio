@@ -26,7 +26,7 @@
         proxyPort="80"
         -->
         <Connector protocol="org.apache.coyote.http11.Http11NioProtocol"
-                   port="9763"
+                   port="${port.http.nonssl}"
                    redirectPort="9443"
                    bindOnInit="false"
                    maxHttpHeaderSize="8192"
